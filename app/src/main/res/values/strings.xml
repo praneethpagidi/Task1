@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="start_activity">Start Activity</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="text_dialog">You Clicked OK!</string>
+    <string name="button">Button</string>
+</resources>
